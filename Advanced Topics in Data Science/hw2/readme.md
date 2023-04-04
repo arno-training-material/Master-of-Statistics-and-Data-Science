@@ -1,0 +1,1 @@
+Exercises seem to come from the textbook "Mining of Massive Datasets".
